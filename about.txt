@@ -1,0 +1,1 @@
+hi , this is full stack crud application using angular 10 and spring boot  
